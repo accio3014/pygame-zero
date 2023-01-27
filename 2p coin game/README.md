@@ -10,15 +10,8 @@
 </br>
 
 ## Pictures
-<div style="text-align:center;">
-    <figure>
-        <img width="60%" src="https://user-images.githubusercontent.com/92027143/215079995-da93bb4a-9efa-4bd3-b8e9-5e49d1d16683.png" >
-        <figcaption>
-            Picture of running game
-        </figcaption>
-    </figure>
-</div>
-</br>
+<img width="60%" src="https://user-images.githubusercontent.com/92027143/215079995-da93bb4a-9efa-4bd3-b8e9-5e49d1d16683.png" >
+Picture of running game
 
 <div style="text-align:center;">
     <figure>
