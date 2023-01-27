@@ -14,8 +14,10 @@
 Picture of running game
 
 </br>
+</br>
 
-<img width="60%" src="https://user-images.githubusercontent.com/92027143/215080210-122113a7-228c-4503-92c5-1944ea436b03.png" >Picture of result game
+<img width="60%" src="https://user-images.githubusercontent.com/92027143/215080210-122113a7-228c-4503-92c5-1944ea436b03.png" >
+Picture of result game
 
 </br>
 </br>
