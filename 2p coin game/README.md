@@ -13,14 +13,10 @@
 <img width="60%" src="https://user-images.githubusercontent.com/92027143/215079995-da93bb4a-9efa-4bd3-b8e9-5e49d1d16683.png" >
 Picture of running game
 
-<div style="text-align:center;">
-    <figure>
-        <img width="60%" src="https://user-images.githubusercontent.com/92027143/215080210-122113a7-228c-4503-92c5-1944ea436b03.png" >
-        <figcaption>
-            Picture of result game
-        </figcaption>
-    </figure>
-</div>
+</br>
+
+<img width="60%" src="https://user-images.githubusercontent.com/92027143/215080210-122113a7-228c-4503-92c5-1944ea436b03.png" >
+Picture of result game
 
 </br>
 </br>
