@@ -11,16 +11,10 @@ if you connect all the dots within 30 seconds, the time taken will be displayed,
 </br>
 </br>
 
-## Pictures
-<div style="text-align:center;">
-    <figure>
-        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png" >
-        <figcaption>
-            </br>
-            Picture of running game
-        </figcaption>
-    </figure>
-</div>
+## Pictures    
+<img width="30%" src="https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png" >        
+</br>
+Picture of running game
 </br>
 </br>
 
