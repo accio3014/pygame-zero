@@ -18,27 +18,16 @@ Picture of running game
 </br>
 </br>
 
-<div style="text-align:center;">
-    <figure>
-        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218974341-60040d42-1b18-4007-ae35-21ee1568b612.png" >
-        <figcaption>
-            </br>
-            Picture of game win
-        </figcaption>
-    </figure>
-</div>
+
+<img width="30%" src="https://user-images.githubusercontent.com/92027143/218974341-60040d42-1b18-4007-ae35-21ee1568b612.png" >
+Picture of game win
+</br>
 </br>
 </br>
 
-<div style="text-align:center;">
-    <figure>
-        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218974529-c17db856-69f8-4a68-adec-2cd733ec9b1e.png" >
-        <figcaption>
-            </br>
-            Picture of game over
-        </figcaption>
-    </figure>
-</div>
+<img width="30%" src="https://user-images.githubusercontent.com/92027143/218974529-c17db856-69f8-4a68-adec-2cd733ec9b1e.png" >
+Picture of game over
+</br>
 </br>
 </br>
 
