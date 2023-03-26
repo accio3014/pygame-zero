@@ -12,22 +12,39 @@ if you connect all the dots within 30 seconds, the time taken will be displayed,
 </br>
 
 ## Pictures
-<img width="30%" src="https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png" >    
-</br>
-Picture of running game
+<div style="text-align:center;">
+    <figure>
+        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218973206-9b0be17d-5686-460e-9709-1422792aa47d.png" >
+        <figcaption>
+            </br>
+            Picture of running game
+        </figcaption>
+    </figure>
+</div>
 </br>
 </br>
 
-<img width="30%" src="https://user-images.githubusercontent.com/92027143/218974341-60040d42-1b18-4007-ae35-21ee1568b612.png" >
-</br>
-Picture of game win
+<div style="text-align:center;">
+    <figure>
+        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218974341-60040d42-1b18-4007-ae35-21ee1568b612.png" >
+        <figcaption>
+            </br>
+            Picture of game win
+        </figcaption>
+    </figure>
+</div>
 </br>
 </br>
 
-
-<img width="30%" src="https://user-images.githubusercontent.com/92027143/218974529-c17db856-69f8-4a68-adec-2cd733ec9b1e.png" >
-</br>
-Picture of game over
+<div style="text-align:center;">
+    <figure>
+        <img width="30%" src="https://user-images.githubusercontent.com/92027143/218974529-c17db856-69f8-4a68-adec-2cd733ec9b1e.png" >
+        <figcaption>
+            </br>
+            Picture of game over
+        </figcaption>
+    </figure>
+</div>
 </br>
 </br>
 
